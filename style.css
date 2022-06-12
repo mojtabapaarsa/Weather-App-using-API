@@ -69,6 +69,9 @@ form input {
 }
 
 @media screen and (max-width:400px) {
+    .container {
+        padding: 10px;
+    }
     form input {
         font-size: 14px;
         padding: 5px;
