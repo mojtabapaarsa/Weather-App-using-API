@@ -67,3 +67,14 @@ form input {
     font-size: 14px;
     margin-top: 30px;
 }
+
+@media screen and (max-width:400px) {
+    form input {
+        font-size: 14px;
+        padding: 5px;
+    }
+    .search-btn {
+        font-size: 14px;
+        padding: 5px;
+    }
+}
